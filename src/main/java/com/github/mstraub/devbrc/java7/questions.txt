@@ -1,0 +1,2 @@
+Closable & Autoclosable: for your own classes - which ones?
+When are suppressed exceptions a problem?
